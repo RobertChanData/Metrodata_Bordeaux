@@ -8,7 +8,7 @@ Plus de 170 étudiants issus de différentes écoles, répartis en 9 équipes et
 
 Transitions de l’emploi : travail indépendant, nouvelles formes d'emploi, emplois émergents, métiers en tension…
 
-Equipe gagnante, composée de 8 membres, étudiants issus de différents domaines:
+### 🏆 **Équipe gagnante** , composée de 8 membres, étudiants issus de différents domaines:
 - 2 Developpeurs web (Ynov, M1 Dev)
 - 2 Chargés de mission en développement territorial (Univ. Bordeaux, M1 Développement Economique Territoriale)
 - 2 Data Analyst (Univ. Bordeaux, M2 ISI)
