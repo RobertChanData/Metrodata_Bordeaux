@@ -19,10 +19,10 @@ Equipe gagnante, composée de 8 membres, étudiants issus de différents domaine
 
 ### Ma contribution personnelle: Data Analyst et Présentateur Principal
 - **Création et analyse des KPIs**: Participation à la définition des indicateurs clés, en évaluant leur pertinence et leur faisabilité.
-- **Interprétation des données**: Analyse et interprétation des données avec les chargés de mission en développement territorial.
+- **Interprétation des données**: Avec les chargés de mission, analyse et interprétation des données et des visualisations.
 - **Documentation et centralisation des KPIs**: Consolidation des informations auprès des membres de l’équipe afin de détailler les sources, la pertinence, les limitations et
-    l’interprétation des indicateurs
-- **Présentateur Principal**: Présentation des résultats et démonstration devant l’audience lors de la restitution finale (10 min).
+    l’interprétation des indicateurs pour écrire la documentation
+- **Présentateur Principal**: Prise en charge de la présentation des résultats + session Q&A devant l’audience lors de la restitution finale (10 min).
 
 
 ### Autres membres de l'équipe
@@ -30,3 +30,9 @@ Equipe gagnante, composée de 8 membres, étudiants issus de différents domaine
 - **Data Analyst** : Exploration, nettoyage et analyse des données en Python (cf notebook)
 - **Chargés de mission** : Analyse sectorielle, contextualisation des données économiques
 - **Ingénieur en Sciences Cognitives** : Contribution méthodologique pour l’analyse des tendances économiques
+
+
+
+## Remerciement
+Merci à Bordeaux Métropole pour l'organisation et l'évènement, ainsi qu'à mon équipe pour notre travail commun qui nous a permis de remporter ce datathon.
+
