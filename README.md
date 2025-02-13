@@ -1,4 +1,4 @@
-# Datathon MetroData (2025): Bordeaux Métropole (2 jours)
+# Datathon MetroData (2025): Bordeaux Métropole
 
 Le projet Metrodata (Métropole Data) est un datathon de 2 jours organisé par Bordeaux Métropole. L'objectif principal est d'analyser les transitions économiques, sociales et écologiques des entreprises dans le secteur girondin.
 
