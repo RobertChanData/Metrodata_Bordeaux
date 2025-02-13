@@ -253,44 +253,7 @@ Plus le ratio entre l’offre et la demande est faible, plus il y a un  déséqu
 Fournit une vue globale entre le déséquilibre offre/demandeur d'emploi.
  
  
- 
- 
- 
- 
-### La solution
- 
- 
- 
- 
-### Indicateurs non calculables
- 
-indicateur 1: 
-On aurait voulu un indicateur qui met en relation les compétences demandées sur les offres d’emploie et les compétences en sorti de formation.
- 
-Indicateur 2:
-On aurait voulu un indicateur qui mesure l’impacte des tiers lieuxsur le télétravail
- 
-### Les problèmes surmontés
- 
->TODO / Ici vous pouvez présenter les principaux problèmes rencontrés et les solutions apportées
- 
- 
-## **Installation**
- 
-[Guide d'installation](/INSTALL.md)
- 
- 
-## **Utilisation**
- 
->TODO / **documentation d'utilisation de la solution**
- 
- 
-## **Contributions**
- 
-Si vous souhaitez contribuer à ce projet, merci de suivre les [recommendations](/CONTRIBUTING.md).
- 
-## **Licence**
- 
+
 Le code est publié sous licence [MIT](/licence.MIT).
  
 Les données référencés dans ce README et dans le guide d'installation sont publiés sous [Etalab Licence Ouverte 2.0](/licence.etalab-2.0).
